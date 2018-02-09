@@ -1,6 +1,7 @@
-Ax2Git
-======
+# Fork of AX2Git for internal use
 
-Dynamics Ax 2012 source control with Git
+## Build Dependancies
+- CombineXpo.exe
 
-Also available at https://ax2git.codeplex.com/
+## Installing
+Import the XPO into your development environment
